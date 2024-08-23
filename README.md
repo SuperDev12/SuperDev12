@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack and data science enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superdev12&label=Profile%20views&color=0e75b6&style=flat" alt="superdev12" /> </p>
 
-- 🌱 I’m currently learning **MAchine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **drathore_be21@thapar.edu**
 
